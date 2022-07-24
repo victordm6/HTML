@@ -2,7 +2,7 @@
 
 Material para o ensino básico de HTML5 e CSS3. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
+* [Acesse os PDFs das aulas clicando aqui](https://github.com/victordm6/html-css/tree/master/aulas-pdf)
 
 ## Direitos de uso
 
